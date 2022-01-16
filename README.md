@@ -7,7 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=lamamyf" alt="lamamyf" /></a> </p>
 <br>
-<h4 align="left">📫 How to reach me **Laalmayouf@hotmail.com**</h4>
+<h4 align="left"> 📫 How to reach me <a href = "mailto:Laalmayouf@hotmail.com?subject = reachOut&body = Message">
+ Laalmayouf@hotmail.com
+</a>
+</h4>
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -101,12 +104,12 @@
             alt="photoshop" width="40" height="40" /> 
     </a>  
 </p>
-
-<p><img align="left"
+<br
+<p><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=lamamyf&show_icons=true&locale=en&layout=compact"
         alt="lamamyf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamamyf&show_icons=true&locale=en"
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lamamyf&show_icons=true&locale=en"
         alt="lamamyf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamamyf&" alt="lamamyf" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lamamyf&" alt="lamamyf" /></p>
